@@ -33,7 +33,7 @@ Note that all *new* scores which are set will already be using the up-to-date pe
 
 圈圈的排列角度現在會計算到移動的難度(SR)中
 
-![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/wide-angle-chart.png)
+![](/resources/wide-angle-chart.png)
 
 舉例：
 - [MAX COVERI - RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974) - 6.25* -> 6.34*
@@ -46,7 +46,7 @@ View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
 200BPM到350BPM的高速的連打(串燒)，難度(SR)將會倍增
 
-![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/high-bpm-chart.png)
+![](/resources/high-bpm-chart.png)
 
 舉例：
 - [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797) - 7.65* -> 8.03*
@@ -57,7 +57,7 @@ View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
 間隔很大的連打(串燒)，難度將會稍微減少。這種技巧仍然很強而且很賺，只是沒有以前那麼賺
 
-![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/high-spacing-chart.png)
+![](/resources/high-spacing-chart.png)
 
 舉例：
 - [GYZE - HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - 7.11* -> 7.03*
@@ -69,7 +69,7 @@ View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
 長滑條的難度(SR)已經被顯著提升
 
-![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/long-slider-chart.png)
+![](/resources/long-slider-chart.png)
 
 這項改動也會依照物件與滑條間的距離增加以及間隔時間之縮短而提升難度(SR)
 
@@ -82,7 +82,7 @@ View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
 在高速的圖譜中，低ACC將會拿到更少的PP
 
-![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/speed-accuracy-chart.png)
+![](/resources/speed-accuracy-chart.png)
 
 舉例：
 - [DragonForce - Cry Thunder](https://osu.ppy.sh/beatmapsets/871946#osu/1822108) - [idke](https://osu.ppy.sh/users/4650315)的S成績從980pp上升到990pp
@@ -94,7 +94,7 @@ View on GitHub: [#74](https://github.com/ppy/osu-performance/pull/74)
 
 在短圖中FL能拿到的pp減少，長圖中增加
 
-![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/flashlight-chart.png)
+![](/resources/flashlight-chart.png)
 
 舉例：
 - [Aoi Eir - IGNITE](https://osu.ppy.sh/beatmapsets/209170#osu/492285) - [Ekoro](https://osu.ppy.sh/users/284905)的成績從435pp增加為490pp
@@ -106,7 +106,7 @@ View on GitHub: [#48](https://github.com/ppy/osu-performance/pull/48), [#71](htt
 
 HD的移動和準度難度增加，速度難度在高縮圈速度(AR)時減少，慢速時增加
 
-| ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/hidden-chart-1.png) | ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/hidden-chart-2.png) | ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/hidden-chart-3.png) |
+| ![](/resources/hidden-chart-1.png) | ![](/resources/hidden-chart-2.png) | ![](/resources/hidden-chart-3.png) |
 | - | - | - |
 
 舉例：
