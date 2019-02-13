@@ -17,7 +17,7 @@ date: 2019-02-07 03:00:00 +0000
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/5rSaXWr_VUM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# Release Schedule
+# 更新進度
 
 - ☑ 在這篇文章公開後，一個穩定版更新將會重新計算所有本機的圖譜。這或許會花上數分鐘的時間（依圖譜數量而定），計算將會在選歌時背景運行。 **[完成]**
 - ☑ 接下來的幾個小時，伺服器端的星數也會更新。 **[完成]**
