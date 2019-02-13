@@ -112,6 +112,7 @@ HD的移動和準度難度增加，速度難度在高縮圈速度(AR)時減少�
 舉例：
 - [GYZE - Honesty](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - [OPSwimmyJimmy](https://osu.ppy.sh/users/4196808)的成績從941pp減少為926pp
 - [Linkin Park - Guilty All The Same (feat. Rakim)](https://osu.ppy.sh/beatmapsets/518596#osu/1187302) - [nathan on osu](https://osu.ppy.sh/users/124493)的成績從695pp增加為705pp
+
 View on GitHub: [#72](https://github.com/ppy/osu-performance/pull/72)
 
 ## 小改動
