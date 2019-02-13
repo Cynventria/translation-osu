@@ -13,7 +13,7 @@ date: 2019-02-07 03:00:00 +0000
 
 此外，這次的更新只針對osu!標準模式(std)，其他遊戲模式也有其他正在進行的工作且將會在接下來幾個月實裝。
 
-比較能接受影片的話，上Doomsday用20分鐘帶你看過所有改動:
+比較能接受影片的話，讓Doomsday用20分鐘帶你看過所有改動:
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/5rSaXWr_VUM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
