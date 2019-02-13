@@ -19,13 +19,13 @@ date: 2019-02-07 03:00:00 +0000
 
 # Release Schedule
 
-- ☑ As of the time this article is posted, a new stable release will begin recalculating star ratings of all beatmaps loaded locally. This may take a few minutes (or more if you have many beatmaps) and will continue to run in the background while your game is at song select. **[COMPLETE]**
-- ☑ Over the coming hours, server-side star ratings will be updated to match. **[COMPLETE]**
-- ☑ Over the next 24 hours, user total PP values will be updated. During this time, user rank updates and profile pp graphs will be paused. **[COMPLETE]**
-- ☑ Over a 4-6 hour period, all user ranks will be recalculated. **Expect to gain ranks in general**, as we are also purging some inactive users from the ranking system. **[COMPLETE]**
-- Over the coming days, all existing scores will be recalculated for all users, updating profiles and beatmap listings. During this period, some scores in "best performance" may be out of order or not visible. **[IN PROGRESS]**
+- ☑ 在這篇文章公開後，一個穩定版更新將會重新計算所有本機的圖譜。這或許會花上數分鐘的時間（依圖譜數量而定），計算將會在選歌時背景運行。 **[完成]**
+- ☑ 接下來的幾個小時，伺服器端的星數也會更新。 **[完成]**
+- ☑ 接下來的24小時， 玩家的總PP數將會更新。這段期間內，排名與個人資料的PP曲線將會暫停更新。 **[完成]**
+- ☑ 接下來的4到6小時，所有玩家的排名將會重新計算，會一併將不活躍的玩家過濾**基本上會提升大家的排名** **[完成]**
+- 接下來的幾天，所有現存的遊戲成績將會重新計算，並更新個人資料與圖譜紀錄。這段時間內，部分個人資料內的"最佳成績"可能會暫時不可視或視順序錯亂 **[進行中]**
 
-Note that all *new* scores which are set will already be using the up-to-date performance algorithm.
+所有新建立的成績將會使用最新的演算法
 
 # 調整大略
 
