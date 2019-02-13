@@ -73,7 +73,7 @@ View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
 這項改動也會依照物件與滑條間的距離增加以及間隔時間之縮短而提升難度(SR)
 
-Example beatmap where this change can be seen:
+舉例：
 - [Fractal - Collide (feat. Danyka Nadeau)](https://osu.ppy.sh/beatmapsets/753365#osu/1586083) - 5.08* -> 5.71*
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
